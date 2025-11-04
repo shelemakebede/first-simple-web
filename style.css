@@ -1,0 +1,208 @@
+body{
+    background-image: url(images/bag6.jpg);
+    font-family: Arial, sans-serif;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.fa-copyright{
+    font-size: 1,5rem;
+    font-weight: 300;
+    display: inline-block;
+    text-align: center;
+    
+}
+.nav .nav{
+    font-size: 2rem;
+    background-color: rgb(37, 43, 41);
+    text-decoration: none;
+    display: grid;
+    position: fixed;
+     margin-top:50px;
+     margin-left:-10px;
+    padding:5px;
+    bottom:0;
+    top:0;
+    
+    
+}
+.nav .nav a{
+    text-decoration: none;
+   margin:30px;
+    height:10px;
+}
+.nav a:hover{
+    background-color: brown;
+} 
+.header-box{
+    background-color: rgb(37, 43, 41);
+    margin-left: -1rem;
+    text-align: center;
+    justify-content: space-between;
+    justify-items: center;
+   
+   
+}
+
+header{
+    background-color: rgb(160, 107, 21);
+   
+    margin-bottom: -1.5rem;
+}
+.header-box1{
+    margin-top:rem;
+    display: flex;
+    padding: 1rem;
+    text-align: center;
+    position: fixed;
+    margin-bottom: 15rem;
+    width: 100%;
+    height: 10;
+    text-decoration: none;
+    background-color: rgb(37, 43, 41);
+}
+h1{
+    margin: 1rem;
+}   
+.ser{
+    margin-left: -1rem;
+    font-size: 2rem;
+}
+.serch{
+    margin-left: 3rem;
+}
+.up{
+    margin-left: 3rem;
+    font-size: 3rem;
+    font-size: 2rem;
+    font-weight: 700;
+
+}
+.in{
+    margin-left: 3rem;
+    font-size: 2rem;
+    width: 3rem;
+    font-weight: 700;
+}
+
+.contact{
+    margin-bottom: 12rem;
+    margin-left: 10rem;
+    font-size: 1rem;
+    font-weight: 400;
+    padding:8rem ;
+    text-align: center;
+    color: #fff;
+}
+.contact1{
+height: 100%;
+font-size: 1.5rem;
+padding: 9rem;
+text-align: center;
+color: #fff;
+margin-bottom:2rem;
+display: flx;
+margin-left:5rem ;
+}
+.pae{
+    margin: 10rem;
+}
+p{
+    font-size: 2rem;
+    font-weight: 500;
+}
+.input-box{
+   text-align: center;
+   display: grid;
+   max-width: 400px;
+   text-align: center;
+   
+  
+}
+input{
+    font-size: 2rem;
+    text-align: center;
+    border-radius: 8px;
+}
+span{
+    color: aqua;
+}
+.home a{
+    padding-right:15rem;
+    margin: 15rem;
+    margin-left: 10rem;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.story{
+    text-align: center;
+    margin: rem;
+    margin-left: 7rem;
+    padding: 10rem;
+    color: #fff;
+}
+
+.images{
+    text-align: center;
+    color: azure;
+    margin-left: 10rem;
+}
+.page{
+    margin-bottom: 10rem;
+}
+.regi{
+    text-align: center;
+    width: 400px;
+    height: 80px;
+    font-size: 2rem;
+    color: hsl(16, 100%, 50%);
+}
+.images h1{
+   margin-bottom: 7rem;
+   
+}
+
+
+.log{
+    font-size: 2rem;
+    font-weight: 400;
+    display: grid;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.hom{
+  margin-left: 5rem;
+  font-size: 2rem;
+  margin-right:10rem ;
+}
+
+.footer{
+    text-align: center;
+    background-color: rgb(52, 43, 43);
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    font-size: 1.2rem;
+    position: relatie;
+    color: #fff;
+    margin-bottom: -2rem;
+    width: 100%;
+}
+.logo{
+    text-align: center;
+    margin-bottom: 8rem;
+    border: 2px solid rgb(0,0,0,0,25);
+}
+
+
+
+
+
+
+
+
+
+
